@@ -38,7 +38,7 @@ function draw(){
     binPart2.display();
     binPart3.display(); 
     drawSprites();
-    crumpledPaper.display();
+   crumpledPaper.display();
 
 }
 
